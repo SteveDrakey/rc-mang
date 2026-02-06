@@ -1,0 +1,26 @@
+Site,Location,Phase,Task,Owner,Status,Start,End,Progress,Highlight,Notes
+Oxford Circus,London,Planning,Confirm site survey and cabling routes,James Stewart,Complete,2024-12-10,2024-12-18,100,No,Survey completed with updated floor plans.
+Oxford Circus,London,Procurement,Order core switches and firewall appliances,Lina Chen,Complete,2024-12-19,2024-12-29,100,No,Lead times locked and PO issued.
+Oxford Circus,London,Build,Pre-configure network and Wi-Fi profiles,Nina Patel,In Progress,2025-01-02,2025-01-12,70,Yes,Configuration templates tested in lab.
+Oxford Circus,London,Install,On-site network rack install,Raj Singh,Pending,2025-01-15,2025-01-19,20,No,Awaiting site handover.
+Oxford Circus,London,Handover,Customer acceptance testing,Amy Collins,Pending,2025-01-20,2025-01-22,0,No,Schedule with store manager.
+Camden,London,Planning,Confirm network requirements for POS and CCTV,James Stewart,Complete,2024-12-12,2024-12-19,100,No,Updated spec aligned with store layout.
+Camden,London,Procurement,Order access points and cabling kits,Lina Chen,In Progress,2024-12-20,2025-01-03,60,No,Awaiting final quantities from builder.
+Camden,London,Build,Stage Wi-Fi controller profiles,Nina Patel,Pending,2025-01-04,2025-01-09,10,No,Dependencies on hardware arrival.
+Camden,London,Install,On-site AP and switch install,Raj Singh,Blocked,2025-01-10,2025-01-14,5,No,Construction delay flagged by contractor.
+Camden,London,Handover,POS network validation,Amy Collins,Pending,2025-01-15,2025-01-17,0,No,Need green light from POS vendor.
+Leeds,Leeds,Planning,Finalize site readiness checklist,James Stewart,Complete,2024-12-08,2024-12-16,100,No,Checklist approved with property team.
+Leeds,Leeds,Procurement,Order WAN circuits and failover,Lina Chen,In Progress,2024-12-17,2025-01-05,55,No,ISP committed to install window.
+Leeds,Leeds,Build,Pre-stage firewall and VPN policies,Nina Patel,In Progress,2025-01-06,2025-01-13,50,No,Security review in progress.
+Leeds,Leeds,Install,Install racks and patching,Raj Singh,Pending,2025-01-14,2025-01-18,0,No,Pending access to comms room.
+Leeds,Leeds,Handover,Operational readiness sign-off,Amy Collins,Pending,2025-01-19,2025-01-21,0,No,Awaiting install completion.
+Bristol,Bristol,Planning,Confirm ISP availability and bandwidth,James Stewart,Complete,2024-12-05,2024-12-11,100,No,ISP options shortlisted.
+Bristol,Bristol,Procurement,Order AP mounts and switch stacks,Lina Chen,Complete,2024-12-12,2024-12-21,100,No,Hardware in transit to staging.
+Bristol,Bristol,Build,Load standard store image and configs,Nina Patel,In Progress,2024-12-22,2025-01-04,65,No,Includes POS VLAN segmentation.
+Bristol,Bristol,Install,Execute site install and labeling,Raj Singh,In Progress,2025-01-05,2025-01-09,45,No,Installer team booked.
+Bristol,Bristol,Handover,Customer walkthrough and docs,Amy Collins,Pending,2025-01-10,2025-01-12,0,No,Docs draft ready.
+Manchester,Manchester,Planning,Finalize cabling plan and risers,James Stewart,Complete,2024-12-09,2024-12-15,100,No,Approved by building management.
+Manchester,Manchester,Procurement,Order cameras and secure mounts,Lina Chen,In Progress,2024-12-16,2025-01-02,75,No,Awaiting final CCTV alignment.
+Manchester,Manchester,Build,Configure network monitoring alerts,Nina Patel,In Progress,2025-01-03,2025-01-11,45,No,Monitoring dashboards mapped.
+Manchester,Manchester,Install,Commission APs and switch stacks,Raj Singh,Pending,2025-01-12,2025-01-16,15,No,Install crew scheduled.
+Manchester,Manchester,Handover,Site readiness presentation,Amy Collins,Pending,2025-01-17,2025-01-18,0,No,Presentation deck in progress.
